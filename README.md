@@ -2,4 +2,4 @@
 
 https://hasul79.github.io/Das-9/
 
-# autor: Hasmik Minasyan
+# author: Hasmik Minasyan
